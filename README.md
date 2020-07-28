@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 I am a Full Stack Java Developer having deep love with Programming languages, Data Structures & Algorithms, Web Development and Cyber Security.
 
-I have skilled in the following technologies : 
+I have skilled in the following technologies : <br>
 Programming languages - C, C++, Java, Python
 Front End technologies - HTML, CSS, Javascript, Bootstrap, Tilwind CSS, Angular
 Backend technologies - JDBC, JPA Hibernate, Spring Frameworks, Spring boot, PHP
