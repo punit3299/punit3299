@@ -1,5 +1,4 @@
 ### Punit Raj
-<hr>
 <!--
 **punit3299/punit3299** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+<hr>
 I am a Full Stack Java Developer having deep love with Programming languages, Data Structures & Algorithms, Web Development and Cyber Security.
 
 I have skilled in the following technologies : <br>
