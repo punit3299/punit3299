@@ -2,7 +2,7 @@
 
 I am a Full Stack Java Developer having deep love with Programming languages, Data Structures & Algorithms, Web Development and Cyber Security. <br>
 
-### Skills : <br>
+# Skills : <br>
 Programming languages - C, C++, Java, Python <br>
 Front End technologies - HTML, CSS, Javascript, Bootstrap, Tilwind CSS, Angular <br>
 Backend technologies - JDBC, JPA Hibernate, Spring Frameworks, Spring boot, PHP <br>
