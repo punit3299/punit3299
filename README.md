@@ -22,7 +22,7 @@ Programming languages - C, C++, Java, Python <br>
 Front End technologies - HTML, CSS, Javascript, Bootstrap, Tilwind CSS, Angular <br>
 Backend technologies - JDBC, JPA Hibernate, Spring Frameworks, Spring boot, PHP <br>
 Databases - Sql (Oracle, MySql) <br>
-Others : Rest APIs, Git, AWS Basics, Linux
+Others : Rest APIs, Git, AWS Basics, Linux, Cyber Security Essentials
 
 Innovative and always ready to learn new technologies.
 A Keen Observer and love to implement theoretical part of any problem statement in real life situation.
