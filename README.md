@@ -14,3 +14,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I am a Full Stack Java Developer having deep love with Programming languages, Data Structures & Algorithms, Web Development and Cyber Security.
+
+I have skilled in the following technologies : 
+Programming languages - C, C++, Java, Python
+Front End technologies - HTML, CSS, Javascript, Bootstrap, Tilwind CSS, Angular
+Backend technologies - JDBC, JPA Hibernate, Spring Frameworks, Spring boot, PHP
+Databases - Sql (Oracle, MySql)
+Others : Rest APIs, Git, AWS Basics, Linux
+
+Innovative and always ready to learn new technologies.
+A Keen Observer and love to implement theoretical part of any problem statement in real life situation.
+
+'I choose a lazy person to do a hard job. Because a lazy person will find an easy way to do it.' 
