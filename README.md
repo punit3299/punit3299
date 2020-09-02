@@ -1,6 +1,6 @@
 # Punit Raj
 
-I have experience Java/J2EE Full Stack Developer having deep love with Programming languages, Data Structures & Algorithms, Web Development and Cyber Security. <br>
+I have experience in Java/J2EE Full Stack Developer having deep love with Programming languages, Data Structures & Algorithms, Web Development and Cyber Security. <br>
 
 ### Skills : <br>
 Programming languages - C, C++, Java, Python <br>
