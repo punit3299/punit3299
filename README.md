@@ -1,11 +1,11 @@
 # Punit Raj
 
-I have experience in Java/J2EE Full Stack Development and having proficiency in Angular, ES6, Typescript, CSS3, HTML5, JPA Hibernate, Spring Frameworks, Rest APIs, SQL/NoSQL databases, along with AWS technologies. <br>
+I have experience in Java/J2EE Full Stack Development and having proficiency in Angular, ES6, Typescript, CSS3, HTML5, JPA Hibernate, Spring Frameworks, Microservices, Rest APIs, SQL/NoSQL databases, along with AWS technologies. <br>
 
 ### Skills : <br>
 Programming languages - C, C++, Java, Python <br>
 Front End technologies - HTML, CSS, Javascript, Bootstrap, Tailwind CSS, Angular 6+ <br>
-Backend technologies - JDBC, JPA Hibernate, Spring Frameworks, Spring boot, PHP <br>
+Backend technologies - JDBC, JPA Hibernate, Spring Frameworks, Spring boot, Microservices <br>
 Databases - Relational Databases (Oracle, MySQL), NoSQL(MongoDB) <br>
 Build Tools - Postman (REST APIs), Maven <br>
 Others - AWS Technologies, Agile Methodologies, Git(Version Control), Web Scraping <br>
