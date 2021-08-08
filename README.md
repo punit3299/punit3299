@@ -42,6 +42,9 @@
 <p align="left"> 
 <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=punit3299" alt="punit3299" /></a>
 </p>
+<p>
+<img src="https://github-readme-stats.vercel.app/api?username=punit3299&show_icons=true&locale=en" alt="punit3299" />
+</p>
   
 <h3 align="left">Connect with Me</h3>
 <hr>
