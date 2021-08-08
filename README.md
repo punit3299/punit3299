@@ -44,7 +44,7 @@
 </p>
 <p>
 <img src="https://github-readme-stats.vercel.app/api?username=punit3299&show_icons=true&locale=en" alt="punit3299" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=punit3299&show_icons=true&locale=en&layout=compact" alt="punit3299" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=punit3299&show_icons=true&locale=en" alt="punit3299" height="500"/>
 </p>
   
 <h3 align="left">Connect with Me</h3>
