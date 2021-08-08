@@ -37,6 +37,19 @@
 <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
 </p>
 
+<hr>
+
+<p float="left">
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=punit3299&show_icons=true&locale=en" alt="punit3299" />
+<img src="https://github-readme-stats.vercel.app/api?username=punit3299&show_icons=true&locale=en" alt="punit3299" />
+</p>
+
+<hr>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=punit3299" alt="punit3299" /></a> </p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=punit3299" alt="punit3299" /></p>
+
 <h3 align="left">Connect with me:</h3>
 <hr>
 <p align="left">
@@ -46,16 +59,6 @@
 <a href="https://instagram.com/https://www.instagram.com/raj.punit3299/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/raj.punit3299/" height="30" width="40" /></a>
 <a href="https://twitter.com/punit3299" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="punit3299" height="30" width="40" /></a>
 </p>
-
-<p align="left">
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=punit3299&show_icons=true&locale=en&layout=compact" alt="punit3299" />
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=punit3299&show_icons=true&locale=en" alt="punit3299" />
-</p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=punit3299" alt="punit3299" /></a> </p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=punit3299" alt="punit3299" /></p>
-
 <p align="left">
 <h4>Coding Profiles: 
 <a href="https://www.hackerearth.com/https://www.hackerearth.com/@punit3299" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="https://www.hackerearth.com/@punit3299" height="30" width="40" /></a>
