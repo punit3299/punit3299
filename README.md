@@ -40,11 +40,11 @@
 <h3 align="left">My Github Overview
 <hr>
 <p align="left"> 
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=punit3299" alt="punit3299" /></a>
+<img src="https://github-profile-trophy.vercel.app/?username=punit3299" alt="punit3299" />
 </p>
 <p>
 <img src="https://github-readme-stats.vercel.app/api?username=punit3299&show_icons=true&locale=en" alt="punit3299" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=punit3299&show_icons=true&locale=en" alt="punit3299" height="200"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=punit3299&show_icons=true&locale=en" alt="punit3299" height="180"/>
 </p>
   
 <h3 align="left">Connect with Me</h3>
