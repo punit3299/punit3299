@@ -9,7 +9,7 @@
 - 💬 Ask me about anything, I'm happy to help.
 - :briefcase: Any Freelance work? Do reach, <a href = "mailto: raj.punit3299@gmail.com">Email</a>
 
-<h3 align="left">Languages and Tools</h3>
+<h3 align="left">:computer: Languages and Tools</h3>
 <hr>
 <p align="left">
 <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
@@ -37,17 +37,17 @@
 <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
 </p>
 
-<h3 align="left">My Github Overview
+<h3 align="left">:chart_with_upwards_trend: My Github Overview
 <hr>
 <p align="left"> 
 <img src="https://github-profile-trophy.vercel.app/?username=punit3299" alt="punit3299" />
 </p>
 <p>
 <img src="https://github-readme-stats.vercel.app/api?username=punit3299&show_icons=true&locale=en" alt="punit3299" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=punit3299&show_icons=true&locale=en" alt="punit3299" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=punit3299&show_icons=true&locale=en" alt="punit3299" height="195"/>
 </p>
   
-<h3 align="left">Connect with Me</h3>
+<h3 align="left">:rocket: Connect with Me</h3>
 <hr>
 <p align="left">
 <h4> Social Media Profiles: 
