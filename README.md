@@ -12,7 +12,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <hr>
 <p>
-<p width="50%">
+<p width="350">
 <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
 <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
 <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
@@ -42,16 +42,13 @@
 </p>
 </p>
 
+My Github Overview:
 <hr>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=punit3299" alt="punit3299" /></a> </p>
 <p float="left">
 <img src="https://github-readme-stats.vercel.app/api?username=punit3299&show_icons=true&locale=en" alt="punit3299" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=punit3299" alt="punit3299" />
 </p>
-
-<hr>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=punit3299" alt="punit3299" /></a> </p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=punit3299" alt="punit3299" /></p>
 
 <h3 align="left">Connect with me:</h3>
 <hr>
