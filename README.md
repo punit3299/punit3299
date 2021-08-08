@@ -39,7 +39,10 @@
 
 <h3 align="left">My Github Overview
 <hr>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=punit3299" alt="punit3299" /></a>
+<p align="left"> 
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=punit3299" alt="punit3299" /></a>
+</p>
+<p align="left"> 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=punit3299&show_icons=true&locale=en" alt="punit3299" />
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=punit3299&show_icons=true&locale=en&layout=compact" alt="punit3299" />
 </p>
