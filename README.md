@@ -10,7 +10,6 @@
 - :briefcase: Any Freelance work? Do reach, <a href = "mailto: raj.punit3299@gmail.com">Email</a>
 
 <h3 align="left">Languages and Tools:</h3>
-<hr>
 
 <p align="left">
      
