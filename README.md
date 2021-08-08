@@ -37,7 +37,13 @@
 <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
 </p>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">My Github Overview
+<hr>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=punit3299" alt="punit3299" /></a> </p>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=punit3299&show_icons=true&locale=en" alt="punit3299" />
+</p>
+  
+<h3 align="left">Connect with Me</h3>
 <hr>
 <p align="left">
 <h4> Social Media Profiles: 
