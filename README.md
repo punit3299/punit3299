@@ -1,4 +1,4 @@
-### 👋 Hey there ! I'm Punit Raj - aka punit3299 <img src="https://komarev.com/ghpvc/?username=punit3299&label=Profile%20views&color=0e75b6&style=flat" alt="punit3299" />
+### 👋 Hey there ! I'm Punit Raj - aka punit3299
 
 <hr>
 
